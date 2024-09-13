@@ -106,10 +106,6 @@ The PID controller adjusts the vehicle’s steering to maintain a desired distan
 
 - **Arduino IDE:** Required for programming the Arduino board.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
