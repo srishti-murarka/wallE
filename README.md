@@ -1,4 +1,4 @@
-# Obstacle Detection and Avoidance Vehicle
+# WallE: Obstacle Detection and Avoidance Vehicle
 
 ## Project Overview
 
